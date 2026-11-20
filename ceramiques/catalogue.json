@@ -3733,7 +3733,7 @@
       "height": "",
       "depth": "",
       "thicknessMm": "",
-      "dimensionsEstimated": "",
+      "dimensionsEstimated": false,
       "onlinePrice": 55,
       "editionInfo": "Tirage limité à 100 exemplaires par dessin. Impression sur papier Tintoretto aquarelle 300 g/m², signée et numérotée.",
       "recommendWhenUnavailable": true,
@@ -3744,7 +3744,7 @@
           "price": 38,
           "expoPrice": 35,
           "onlinePrice": 38,
-          "framedExpoPrice": "",
+          "framedExpoPrice": 55,
           "framedOnlinePrice": "",
           "width": 20,
           "height": 20,
@@ -5049,26 +5049,12 @@
       "height": "",
       "depth": "",
       "thicknessMm": "",
-      "dimensionsEstimated": "",
+      "dimensionsEstimated": false,
       "onlinePrice": 55,
       "editionInfo": "Tirage limité à 100 exemplaires par dessin. Impression sur papier Tintoretto aquarelle 300 g/m², signée et numérotée.",
       "recommendWhenUnavailable": true,
       "wix": "",
       "variants": [
-        {
-          "name": "20 × 20 cm",
-          "price": 38,
-          "expoPrice": 35,
-          "onlinePrice": 38,
-          "framedExpoPrice": "",
-          "framedOnlinePrice": "",
-          "width": 20,
-          "height": 20,
-          "quantity": 0,
-          "weightG": 75,
-          "framingAllowed": false,
-          "enabled": true
-        },
         {
           "name": "30 × 30 cm",
           "price": 55,
@@ -5080,6 +5066,20 @@
           "height": 30,
           "quantity": 1,
           "weightG": 140,
+          "framingAllowed": false,
+          "enabled": true
+        },
+        {
+          "name": "15 × 15 cm",
+          "price": 30,
+          "expoPrice": 28,
+          "onlinePrice": 30,
+          "framedExpoPrice": 45,
+          "framedOnlinePrice": 48,
+          "width": "",
+          "height": "",
+          "quantity": 1,
+          "weightG": 75,
           "framingAllowed": false,
           "enabled": true
         }
@@ -5709,6 +5709,20 @@
           "weightG": 140,
           "framingAllowed": false,
           "enabled": true
+        },
+        {
+          "name": "15 × 15 cm",
+          "price": 30,
+          "expoPrice": 28,
+          "onlinePrice": 30,
+          "framedExpoPrice": "",
+          "framedOnlinePrice": "",
+          "width": "",
+          "height": "",
+          "quantity": 0,
+          "weightG": 75,
+          "framingAllowed": false,
+          "enabled": true
         }
       ],
       "photos": [
@@ -6051,6 +6065,20 @@
           "weightG": 140,
           "framingAllowed": false,
           "enabled": true
+        },
+        {
+          "name": "15 × 15 cm",
+          "price": 30,
+          "expoPrice": 28,
+          "onlinePrice": 30,
+          "framedExpoPrice": "",
+          "framedOnlinePrice": "",
+          "width": "",
+          "height": "",
+          "quantity": 0,
+          "weightG": 75,
+          "framingAllowed": false,
+          "enabled": true
         }
       ],
       "photos": [
@@ -6165,6 +6193,20 @@
           "weightG": 140,
           "framingAllowed": false,
           "enabled": true
+        },
+        {
+          "name": "15 × 15 cm",
+          "price": 30,
+          "expoPrice": 28,
+          "onlinePrice": 30,
+          "framedExpoPrice": "",
+          "framedOnlinePrice": "",
+          "width": "",
+          "height": "",
+          "quantity": 0,
+          "weightG": 75,
+          "framingAllowed": false,
+          "enabled": true
         }
       ],
       "photos": [
@@ -6277,6 +6319,20 @@
           "height": 30,
           "quantity": 0,
           "weightG": 140,
+          "framingAllowed": false,
+          "enabled": true
+        },
+        {
+          "name": "15 × 15 cm",
+          "price": 30,
+          "expoPrice": 28,
+          "onlinePrice": 30,
+          "framedExpoPrice": "",
+          "framedOnlinePrice": "",
+          "width": "",
+          "height": "",
+          "quantity": 0,
+          "weightG": 75,
           "framingAllowed": false,
           "enabled": true
         }
